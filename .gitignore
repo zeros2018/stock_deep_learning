@@ -11,3 +11,9 @@ Integrated CA2 MSc in Data Analytics BD_ADA v5.docx
 .ipynb_checkpoints/ProcessingData-checkpoint.ipynb
 .ipynb_checkpoints/ProcessingData-checkpoint.ipynb
 .~lock.Integrated CA2 MSc in Data Analytics BD_ADA v5.docx\#
+BAC_best_lstm_model.h5
+/.ipynb_checkpoints
+DIS_best_lstm_model.h5
+/hyperparameter_tuning
+PG_best_lstm_model.h5
+*.h5
